@@ -1,8 +1,11 @@
 ### Section 1
  
-first change
+fIRST Change
 
 ### Section 2
 
+sECOND Change
+
 ### Section 3
 
+tHIRD Change
